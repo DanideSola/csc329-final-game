@@ -21,3 +21,5 @@ Interactables:
 - Pie: increases player health by one
 - Board: boards on doors must be broken in order to change rooms
 
+To play the published game, click below:
+https://simmer.io/@ddes2022/csc329-final-project-the-cabin 
